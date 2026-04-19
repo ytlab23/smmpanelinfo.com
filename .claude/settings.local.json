@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git mv *)",
+      "Bash(python3 _generate_pages.py)",
+      "Bash(sed -n '/TL;DR/,/<\\\\/div>/p' how-to-start-an-smm-panel-business/index.html)"
+    ]
+  }
+}
